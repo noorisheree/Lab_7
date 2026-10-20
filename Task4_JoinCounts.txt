@@ -1,0 +1,9 @@
+
+Task 4: Merge Enrollments with Courses
+
+Left Outer Join: 10 rows
+Inner Join: 9 rows
+Full Outer Join: 11 rows
+Left Anti Join: 1 row
+
+The Left Anti Join identifies one enrollment record whose CourseCode does not match any course in the Courses table.
